@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Interactive Boxes</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <div class="box" data-index="0">
+            <p>1 Unit</p>
+            <p>10% Off</p>
+            <p>Standard Price</p>
+            <p>$10.00 USD</p>
+        </div>
+        <div class="box" data-index="1">
+            <p>2 Unit</p>
+            <p>20% Off</p>
+            <p>MOST POPULAR</p>
+            <p>$18.00 USD</p>
+        </div>
+        <div class="box" data-index="2">
+            <p>3 Unit</p>
+            <p>30% Off</p>
+            <p>$24.00 USD</p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
